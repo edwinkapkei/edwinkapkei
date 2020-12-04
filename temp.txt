@@ -1,8 +1,0 @@
-<div class="col-sm-12 align-center">
-    <ul class="social-network social-circle">
-        <li><a href="https://github.com/edwinkapkei" class="icoGit" title="Github"><i class="fa fa-github"></i></a>
-        </li>
-        <li><a href="https://www.linkedin.com/in/edwin-kapkei-b7688992/" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a>
-        </li>
-    </ul>
-</div>
