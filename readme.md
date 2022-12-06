@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edwin Kapkei
-- 👀 I’m interested in Software Engineering, AI and Machine Learning
+- 👀 I’m interested in Android/iOS Development, AI and Machine Learning
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Software Engineering, AI and Machine Learning
 - 📫 How to reach me: Email(kapkei.kapkei@gmail.com), LinkedIn(https://www.linkedin.com/in/edwin-kapkei/)
