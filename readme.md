@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edwin Kapkei
-- 👀 I’m interested in Android/iOS Development, Flutter
-- 🌱 I’m currently learning Flutter, Compose
-- 💞️ I’m looking to collaborate on Mobile Apps Engineering
+- 👀 I’m interested in Android/iOS Development, Backend Development
+- 🌱 I’m currently learning Compose Multiplatform, KPM, Spring/Java/Kotlin
+- 💞️ I’m looking to collaborate on Mobile Apps and Backend Engineering With AI sprinkled in there somewhere
 - 📫 How to reach me: Email(kapkei.kapkei@gmail.com)
